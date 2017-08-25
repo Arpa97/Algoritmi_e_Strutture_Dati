@@ -24,3 +24,15 @@ void countingSort(int[] arr) {
        }
     }
  }
+
+//SET ARRAY
+public int[] getArray(int n) {
+  int[] myArray = new int[n];
+  // Populate array
+  return myArray;
+}
+
+//PRINT
+public int[] printArray(int[] A){
+System.out.println(Arrays.toString(A));
+}
